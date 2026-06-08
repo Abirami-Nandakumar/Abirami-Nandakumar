@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Abirami N 👋
 
-<!--
-**Abirami-Nandakumar/Abirami-Nandakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science Graduate
 
-Here are some ideas to get you started:
+🏆 Dual University Rank Holder (BSc CS & MSc CS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Python
+- SQL
+- Data Analytics
+- Machine Learning
+- Generative AI
+
+📚 Publications
+
+- [Personality Prediction Ocean Model Using Machine Learning](https://ijrpr.com/uploads/V4ISSUE10/IJRPR18229.pdf)
+
+- [Green Computing: A Sustainable Approach to Mitigating Global Warming](https://ijrpr.com/uploads/V5ISSUE1/IJRPR22253.pdf)
+
+🌱 Currently Learning
+- Tableau
+- Data Analytics
+- Machine Learning
+
+📫 Connect with me
+
+🔗 LinkedIn:
+[Abirami N](https://www.linkedin.com/in/abirami-n-/)
