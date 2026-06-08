@@ -22,7 +22,7 @@
 - Data Analytics
 - Machine Learning
 
-📫 Connect with me
+📫 connect with me
 
 🔗 LinkedIn:
 [Abirami N](https://www.linkedin.com/in/abirami-n-/)
